@@ -1,0 +1,7 @@
+- id: mdformat-pyproject
+  name: mdformat-pyproject
+  description: "mdformat but reads from pyproject.toml"
+  entry: mdformat-pyproject
+  language: python
+  types: [markdown]
+  minimum_pre_commit_version: '1.0.0'
