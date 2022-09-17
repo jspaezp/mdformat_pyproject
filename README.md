@@ -18,7 +18,7 @@ it.
 
 **From the cli**
 
-```
+```shell
 mdformat_pyproject
 # or
 mdformatp
